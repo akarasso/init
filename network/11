@@ -1,0 +1,2 @@
+C'est le router qui fait le lien entre deux reseau,
+C'est donc le router nat-1 (10.60.1.11) nat <=> (network address translation)

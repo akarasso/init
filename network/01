@@ -1,1 +1,1 @@
-ifconfig | grep -v "^	" | sed "s/:.*//g"
+ifconfig -l
